@@ -192,5 +192,5 @@ For any inquiries or issues, please contact me!
 
 ## Acknowledgments
 
-- The code and explanations are derived from *A Student's Guide to Python for Physical Modeling: Second Edition* by Jesse M. Kinder and Philip Nelson. We are grateful for their contribution to scientific computing education.
+- The code and explanations are derived from ... *A Student's Guide to Python for Physical Modeling: Second Edition* ... by Jesse M. Kinder and Philip Nelson. We are grateful for their contribution to scientific computing education.
 - This project uses Jupyter Notebook, an interactive computational environment for Python ([Jupyter](https://jupyter.org/)). We acknowledge the Jupyter Project for creating this valuable tool.
