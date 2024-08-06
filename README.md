@@ -82,17 +82,17 @@ vortex.ipynb
 gradient.ipynb
 streamlines.ipynb
 
-**Chapter 8: Advanced Topics**
+**Chapter 7: Advanced Topics**
 
 data_images.ipynb
 walker.ipynb
 waves.ipynb (uses html_movie.py)
 
-**Chapter 9: Convolution**
+**Chapter 8: Convolution**
 
 convolution.ipynb
 
-**Chapter 10: Random Walks**
+**Chapter 9: Random Walks**
 
 first_passage.ipynb
 data_dictionary.ipynb (requires first_passage.ipynb)
