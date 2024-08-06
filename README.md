@@ -125,11 +125,6 @@ shading.ipynb
 sympy_examples.py (better suited for interactive use)
 
 
-**Acknowledgments**
-
-* The original code and explanations in this project are derived from the book *A Student's Guide to Python for Physical Modeling: Second Edition* by Jesse M. Kinder and Philip Nelson. We are grateful for their contribution to scientific computing education.  
-* This project utilizes Jupyter Notebook, an interactive computational environment for Python ([https://jupyter.org/](https://jupyter.org/)). We acknowledge the Jupyter Project for creating this valuable tool.
-
 **Getting Started**
 
 1. **Clone this repository:**  
@@ -174,3 +169,8 @@ For any inquiries or issues, please contact me.!
 
 - **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024* 
 [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
+
+**Acknowledgments**
+
+* The original code and explanations in this project are derived from the book *A Student's Guide to Python for Physical Modeling: Second Edition* by Jesse M. Kinder and Philip Nelson. We are grateful for their contribution to scientific computing education.  
+* This project utilizes Jupyter Notebook, an interactive computational environment for Python ([https://jupyter.org/](https://jupyter.org/)). We acknowledge the Jupyter Project for creating this valuable tool.
