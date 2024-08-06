@@ -2,29 +2,33 @@
 
 This repository provides Jupyter Notebook versions of the code examples found in the book *A Student's Guide to Python for Physical Modeling: Second Edition* by Jesse M. Kinder and Philip Nelson ([https://www.amazon.com/Students-Guide-Python-Physical-Modeling/dp/0691180563](https://www.amazon.com/Students-Guide-Python-Physical-Modeling/dp/0691180563)).
 
-```
-Chapter 1: Introduction to Python for Scientific Computing A 
-1.1. Why Python for Scientific Computing?
-Briefly discuss the advantages of Python in scientific computing:
+**Chapter 1: Introduction to Python for Scientific Computing**
+
+**1.1. Why Python for Scientific Computing?**
+**Briefly discuss the advantages of Python in scientific computing:**
 Open-source and free
 Large and active community
 Extensive libraries (NumPy, SciPy, Matplotlib, etc.)
 Readability and ease of use
-1.2. Basic Python Syntax
-Introduce fundamental Python concepts:
+
+**1.2. Basic Python Syntax**
+**Introduce fundamental Python concepts:**
 Variables and data types (integers, floats, strings, booleans)
 Operators (arithmetic, comparison, logical)
 Basic input and output (print, input)
 Indentation and code blocks
-1.3. Control Flow
+
+**1.3. Control Flow**
 Explain conditional statements (if, else, elif)
 Discuss loops (for, while)
 Provide examples using code fragments: string_format.ipynb, string_percent.ipynb, for_loop.ipynb, while_loop.ipynb
-1.4. Functions
+
+**1.4. Functions**
 Define functions and their importance
 Explain function parameters, return values
 Introduce scope and namespaces (referencing scope.ipynb and name_collision.ipynb)
-1.5. Introduction to NumPy
+
+**1.5. Introduction to NumPy**
 Explain NumPy arrays and their advantages over Python lists
 Demonstrate basic array operations (creation, indexing, slicing)
 Introduce vectorization (using vectorize.ipynb)
@@ -32,31 +36,36 @@ Potential Additional Topics (Depending on Book's Scope)
 Basic plotting using Matplotlib (referencing simple_plot.ipynb)
 File I/O (referencing import_text.ipynb, save_load.ipynb, print_write.ipynb)
 
-Chapter 2: Introduction to Python Programming
+**Chapter 2: Introduction to Python Programming**
 
 string_format.ipynb
 string_percent.ipynb
 for_loop.ipynb
 while_loop.ipynb
 vectorize.ipynb
-Chapter 3: Working with Arrays and Functions
+
+**Chapter 3: Working with Arrays and Functions**
 
 projectile.ipynb
 branching.ipynb
 nesting.ipynb
-Chapter 4: Data Input and Output
+
+**Chapter 4: Data Input and Output**
 
 import_text.ipynb
 save_load.ipynb
 print_write.ipynb
-Chapter 4: Visualization
+
+**Chapter 5: Visualization**
 
 simple_plot.ipynb
 graph_modifications.ipynb
 line3d.ipynb
 subplot.ipynb
 subplots.ipynb
-Chapter 6: Numerical Methods
+
+
+**Chapter 6: Numerical Methods**
 
 measurements.ipynb
 rotate.ipynb
@@ -72,27 +81,33 @@ ivp_comparison.ipynb
 vortex.ipynb
 gradient.ipynb
 streamlines.ipynb
-Chapter 8: Advanced Topics
+
+**Chapter 8: Advanced Topics**
 
 data_images.ipynb
 walker.ipynb
 waves.ipynb (uses html_movie.py)
-Chapter 9: Convolution
+
+**Chapter 9: Convolution**
 
 convolution.ipynb
-Chapter 10: Random Walks
+
+**Chapter 10: Random Walks**
 
 first_passage.ipynb
 data_dictionary.ipynb (requires first_passage.ipynb)
 nd_random_walks.ipynb
-Epilogue
+
+**Epilogue**
 
 surprise.ipynb
-Appendix F: Scoping and Namespaces
+
+**Appendix F: Scoping and Namespaces**
 
 scope.ipynb
 name_collision.ipynb
-Your Turn (Additional Exercises)
+
+**Your Turn (Additional Exercises)**
 
 fancy_plot.ipynb
 legend.ipynb
@@ -100,15 +115,14 @@ measurements.ipynb (different from Chapter 6 version)
 random_walk.ipynb
 surface.ipynb
 regression.ipynb (requires first_passage.ipynb)
-Additional Files
+
+**Additional Files** 
 
 bar3d.ipynb
 html_movie.py (used by waves.ipynb)
 perrin.ipynb (requires g26perrindata.npy)
 shading.ipynb
 sympy_examples.py (better suited for interactive use)
-
-```
 
 
 **Acknowledgments**
