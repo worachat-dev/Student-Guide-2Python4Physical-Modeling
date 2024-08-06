@@ -1,6 +1,6 @@
 ## A Student's Guide to Python for Physical Modeling: Jupyter Notebook Edition
 
-This repository provides Jupyter Notebook versions of the code examples found in the book *A Student's Guide to Python for Physical Modeling: Second Edition* by Jesse M. Kinder and Philip Nelson ([https://www.amazon.com/Students-Guide-Python-Physical-Modeling/dp/0691180563](https://www.amazon.com/Students-Guide-Python-Physical-Modeling/dp/0691180563)).
+This repository provides Jupyter Notebook versions of the code examples found in the book... *A Student's Guide to Python for Physical Modeling: Second Edition*... by Jesse M. Kinder and Philip Nelson ([https://www.amazon.com/Students-Guide-Python-Physical-Modeling/dp/0691180563](https://www.amazon.com/Students-Guide-Python-Physical-Modeling/dp/0691180563)).
 
 **Chapter 1: Introduction to Python for Scientific Computing**
 
