@@ -161,7 +161,7 @@ This repository includes Jupyter Notebooks for various chapters and topics cover
 3. **Open a Jupyter Notebook:**  
    Navigate to the project directory and launch a Jupyter Notebook server:  
    ```bash
-   cd a-students-guide-to-python-for-physical-modeling
+   cd Student-Guide-2Python4Physical-Modeling
    jupyter notebook
    ```
    This will open a web interface where you can browse and execute the Jupyter notebooks.
