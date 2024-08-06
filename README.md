@@ -129,9 +129,8 @@ sympy_examples.py (better suited for interactive use)
 
 1. **Clone this repository:**  
    Bash  
-   `git clone https://github.com/your-username/a-students-guide-to-python-for-physical-modeling.git`
+   `git clone https://github.com/worachat-dev/Student-Guide-2Python4Physical-Modeling.git`
 
-   Replace your-username with your actual GitHub username.  
 2. **Install required libraries:**  
    The code examples in this repository rely on several Python libraries, including NumPy, SciPy, and Matplotlib. You can install them using pip:  
    Bash  
